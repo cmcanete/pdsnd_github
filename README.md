@@ -8,7 +8,7 @@ Canete Bikeshare Project (Python)
 This project is part of Udacity's Nanodegree: Programming for Data Science with Python. This project explores bikeshare data from New York City, Washington, and Chicago. The code provides various statistics based on selected information.
 
 ### Files used
-canetebikeshare.py
+canetebikeshare.py  
 README.md
 
 ### Credits
