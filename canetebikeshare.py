@@ -201,6 +201,8 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
+        #This asks the user if they would like detail from the source file.
+
         while True:
             individual_trip_data_input = input("Would you like to see individual trip data? Please type 'yes' or 'no': ")
             individual_trip_data = individual_trip_data_input.lower()
