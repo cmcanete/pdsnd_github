@@ -12,5 +12,5 @@ canetebikeshare.py
 README.md
 
 ### Credits
-This is all part of the Udacity course. I'm a student!
+This is all part of the Udacity course. I'm a **student**!
 
